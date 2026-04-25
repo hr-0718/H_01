@@ -8,6 +8,7 @@
 UserSettings/
 
 # Visual Studio Generated Files
+.vs/
 .vscode/
 *.csproj
 *.sln
